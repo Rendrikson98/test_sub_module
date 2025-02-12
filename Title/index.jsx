@@ -1,5 +1,5 @@
 const Title = ({ title }) => {
-  return <p style={{ color: 'red', fontSize: '40px' }}>{title}</p>;
+  return <p style={{ color: 'blue', fontSize: '40px' }}>{title}</p>;
 };
 
 export default Title;
